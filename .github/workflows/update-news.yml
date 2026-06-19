@@ -4,12 +4,15 @@ on:
   schedule:
     # 每日 UTC 22:00 跑一次（北京时间次日 6:00）
     - cron: "0 22 * * *"
-  workflow_dispatch:    # 允许手动触发
+  workflow_dispatch:
   push:
     paths:
       - "scripts/**"
       - "feeds/follow.example.opml"
       - ".github/workflows/update-news.yml"
+      - "requirements.txt"
+      - "index.html"
+      - "assets/**"
 
 permissions:
   contents: write
@@ -50,6 +53,14 @@ jobs:
         if: always()
         run: rm -f feeds/follow.opml
 
+      - name: Upload data as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: radar-data
+          path: data/
+          if-no-files-found: error
+          retention-days: 7
+
       - name: Commit & push data
         run: |
           git config user.name "stock-radar-bot"
@@ -73,7 +84,17 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo (full history for data/)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download radar-data artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: radar-data
+          path: data/
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

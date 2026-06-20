@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T02:23:04.076455+00:00",
-  "total_stories": 31,
+  "generated_at": "2026-06-20T08:35:53.291898+00:00",
+  "total_stories": 27,
   "stories": [
     {
       "story_id": "5e520ee20cee",
@@ -87,27 +87,6 @@
       ]
     },
     {
-      "story_id": "0410b57ad73f",
-      "title": "Indian IT stocks slump up to 7% as Accenture cuts revenue outlook, fueling fresh concerns over sector growth",
-      "label": "guidance",
-      "label_zh": "业绩指引",
-      "importance_label": "medium",
-      "importance_score": 55,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/india-it-stocks-fall-accenture-cuts-revenue-forecast.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/india-it-stocks-fall-accenture-cuts-revenue-forecast.html",
-          "published_at": "2026-06-19T05:07:14+00:00",
-          "importance_score": 55
-        }
-      ]
-    },
-    {
       "story_id": "339f95e29824",
       "title": "Warsh’s new task forces give the Fed wiggle room to put off changing rates until December",
       "label": "other",
@@ -171,8 +150,8 @@
       ]
     },
     {
-      "story_id": "398618326dbf",
-      "title": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
+      "story_id": "d76adfa9a4af",
+      "title": "The Fed is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
@@ -272,6 +251,27 @@
           "url": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html",
           "published_at": "2026-06-19T10:25:57+00:00",
           "importance_score": 48
+        }
+      ]
+    },
+    {
+      "story_id": "e21ea312cdc3",
+      "title": "My mother was co-owner of my late grandmother’s bank account. Should she share the money with her siblings?",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T05:18:00+00:00",
+          "importance_score": 40
         }
       ]
     },
@@ -465,27 +465,6 @@
       ]
     },
     {
-      "story_id": "ffb4f2f7c6e9",
-      "title": "‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-          "published_at": "2026-06-19T14:10:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
       "story_id": "71c02dfab115",
       "title": "29-year-old making $250k in tech went 'undercover' at a coffee chain before opening her own matcha cafe",
       "label": "other",
@@ -586,69 +565,6 @@
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
           "published_at": "2026-06-19T10:47:57+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "7f9f810a3777",
-      "title": "What this biotech's volatile stock price tells you about the weight loss market right now",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/zealand-pharma-stock-weight-loss-drugmaker-novo-lilly.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/zealand-pharma-stock-weight-loss-drugmaker-novo-lilly.html",
-          "published_at": "2026-06-19T07:30:34+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "ecfd57b8a637",
-      "title": "Yen slides past 161 against the dollar, nearing 40-year low and reviving intervention bets",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/japan-yen-161-dollar-intervention-risk-currency-markets.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/japan-yen-161-dollar-intervention-risk-currency-markets.html",
-          "published_at": "2026-06-19T03:44:21+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "c71bc7fb49b6",
-      "title": "MSCI isn't done with Indonesia yet: new report signals continued concerns over market transparency",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/msci-still-concerned-about-indonesian-stock-market-transparency.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/msci-still-concerned-about-indonesian-stock-market-transparency.html",
-          "published_at": "2026-06-19T03:12:38+00:00",
           "importance_score": 40
         }
       ]

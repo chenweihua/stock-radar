@@ -1,570 +1,756 @@
 {
-  "generated_at": "2026-06-20T08:35:53.291898+00:00",
-  "total_stories": 27,
+  "generated_at": "2026-06-21T10:54:47.458367+00:00",
+  "total_stories": 35,
   "stories": [
     {
-      "story_id": "5e520ee20cee",
-      "title": "U.S. opens tariff probe targeting Germany’s drug pricing policies",
+      "story_id": "57e0802986f3",
+      "title": "中國國際金融股份有限公司關於中創智領（鄭州）工業技術集團股份有限公司向不特定對象發行A股可轉換公司債券之上市保薦書",
+      "label": "product",
+      "label_zh": "产品业务",
+      "importance_label": "medium",
+      "importance_score": 68,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100113_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100113_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006725+00:00",
+          "importance_score": 68
+        }
+      ]
+    },
+    {
+      "story_id": "fa5ca999cfba",
+      "title": "Inside the push to weaken Washington’s toughest financial watchdog",
       "label": "policy",
       "label_zh": "监管政策",
-      "importance_label": "high",
-      "importance_score": 75,
+      "importance_label": "medium",
+      "importance_score": 65,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
+      "primary_url": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
-          "published_at": "2026-06-19T14:44:37+00:00",
-          "importance_score": 75
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T18:28:00+00:00",
+          "importance_score": 65
         }
       ]
     },
     {
-      "story_id": "221a47534273",
-      "title": "The riskiest SpaceX stock trade of all had a big first week",
+      "story_id": "6cb48613a540",
+      "title": "海外監管公告 - 美的集團股份有限公司第五屆董事會第十七次會議決議公告、關於註銷第八期股票期權激勵計劃第三個行權期及第九期股票期權激勵計劃第二個行權期已到期未行權股票期權的公告、關於調整公司第九期股票期權激勵計劃的激勵對象名單及期權數量的公告、關於第九期股票期權激勵計劃第三個行權期行權相關事項的公告、關於對2022年和2023年限制性股票激勵計劃部分激勵股份回購註銷的公告、關於2022年限制性股票激勵計劃的第三次解除限售期解鎖條件成就的公告、關於2023年限制性股票激勵計劃的第三次解除限售期解鎖條件成就的公告、關於2023年持股計劃歸屬完畢的提示性公告、關於2024年持股計劃第一個歸屬期權益歸屬的公告、關於2026年A股持股計劃管理委員會選聘的公告及董事會薪酬與考核委員會關於公司股權激勵相關事項的核查意見",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 2,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100001_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100001_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006841+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100003_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006836+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "8cf114eac536",
+      "title": "海外監管公告 - 北京市嘉源律師事務所關於美的集團股份有限公司第八期股權激勵計劃註銷到期未行權期權事項的法律意見書、北京市嘉源律師事務所關於美的集團股份有限公司第九期股權激勵計劃相關事項調整、註銷到期未行權期權及行權相關事項的法律意見書、北京市嘉源律師事務所關於美的集團股份有限公司2022年限制性股票激勵計劃解鎖及回購註銷部分限制性股票的法律意見書及北京市嘉源律師事務所關於美的集團股份有限公司2023年限制性股票激勵計劃解鎖及回購註銷部分限制性股票的法律意見書",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100005_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100005_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006830+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "545d9c93b1ab",
+      "title": "公告 - 投資策略更新",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100008_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100008_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006825+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "c0f9eaf6de98",
+      "title": "自願性公告\n安奈拉唑鈉新適應症根除幽門螺桿菌之III期臨床試驗完成首例患者入組",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100010_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100010_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006819+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "31f9688a87c8",
+      "title": "發行章程",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100012_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100012_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006814+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "b2ef08b9a36f",
+      "title": "自願性公告\n根據H股激勵計劃建議\n進一步於市場上購買H股",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100014_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100014_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006809+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "0ce5eb71a50c",
+      "title": "委任執行董事",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100016_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100016_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006803+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "24629e0258ca",
+      "title": "董事名單與其角色和職能",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100018_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100018_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006797+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "3899238e2a88",
+      "title": "股份代號 : 9102, 3102, 83102資料",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100020_c.xlsx",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100020_c.xlsx",
+          "published_at": "2026-06-21T10:54:42.006792+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "d48ceb5578d6",
+      "title": "中國石油天然氣股份有限公司2025年年度A股權益分派實施公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100021_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100021_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006786+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "936e28e437e4",
+      "title": "穩定價格行動及穩定價格期結束",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100024_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100024_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006781+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "76938081f447",
+      "title": "第二季分紅公告（表格）",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100026_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100026_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006775+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "8d85f20728a6",
+      "title": "第二季分紅公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100028_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100028_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006768+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "f3ce8f28cb9a",
+      "title": "翌日披露報表",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 2,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100030_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100030_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006760+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100120_c.pdf",
+          "published_at": "2026-06-21T10:54:41.992783+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "b7e14a9fd429",
+      "title": "中創智領（鄭州）工業技術集團股份有限公司關於向不特定對象發行A股可轉換公司債券申請獲得上海證券交易所受理的公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 2,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100107_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100107_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006750+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100109_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006741+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "c0bdb0410343",
+      "title": "中國國際金融股份有限公司關於中創智領（鄭州）工業技術集團股份有限公司向不特定對象發行A股可轉換公司債券之發行保薦書",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100111_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100111_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006734+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "5bb9887f6ea4",
+      "title": "立信會計師事務所（特殊普通合夥）關於中創智領（鄭州）工業技術集團股份有限公司向不特定對象發行A股可轉換公司債券的財務報告及審計報告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100115_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100115_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006706+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "cc578dd8352b",
+      "title": "北京市海問律師事務所關於中創智領（鄭州）工業技術集團股份有限公司向不特定對象發行A股可轉換公司債券的法律意見書",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0621/2026062100117_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0621/2026062100117_c.pdf",
+          "published_at": "2026-06-21T10:54:42.006691+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "c866ce89a66d",
+      "title": "I’m 73 and living 100% off dividends from my stocks. How can I create even more income?",
       "label": "capital",
       "label_zh": "资本运作",
       "importance_label": "medium",
       "importance_score": 55,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
+      "primary_url": "https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/spacex-stock-risk-buy-sell.html",
-          "published_at": "2026-06-19T15:53:11+00:00",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/im-73-and-living-100-off-dividends-from-my-stocks-how-can-i-create-even-more-income-74b372f1?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T18:02:00+00:00",
           "importance_score": 55
         }
       ]
     },
     {
-      "story_id": "f3983ebec7ed",
-      "title": "Memory crisis hits such extremes that 'even Apple can't be safe'",
-      "label": "management",
-      "label_zh": "管理层",
-      "importance_label": "medium",
-      "importance_score": 55,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
-          "published_at": "2026-06-19T12:00:02+00:00",
-          "importance_score": 55
-        }
-      ]
-    },
-    {
-      "story_id": "2dbd9d98972e",
-      "title": "India's largest telecom and digital service Jio Platforms files for IPO",
-      "label": "capital",
-      "label_zh": "资本运作",
-      "importance_label": "medium",
-      "importance_score": 55,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/india-jio-platforms-ipo-mukesh-ambani.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/india-jio-platforms-ipo-mukesh-ambani.html",
-          "published_at": "2026-06-19T10:50:22+00:00",
-          "importance_score": 55
-        }
-      ]
-    },
-    {
-      "story_id": "339f95e29824",
-      "title": "Warsh’s new task forces give the Fed wiggle room to put off changing rates until December",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 50,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories",
-          "published_at": "2026-06-19T17:25:00+00:00",
-          "importance_score": 50
-        }
-      ]
-    },
-    {
-      "story_id": "fc942df195dc",
-      "title": "Fedspeak vs. war deal: Here are the things that drove this week's stock market",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 50,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/fedspeak-vs-war-deal-here-are-the-things-that-drove-this-weeks-stock-market.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/fedspeak-vs-war-deal-here-are-the-things-that-drove-this-weeks-stock-market.html",
-          "published_at": "2026-06-19T17:24:10+00:00",
-          "importance_score": 50
-        }
-      ]
-    },
-    {
-      "story_id": "856b979b52a0",
-      "title": "Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans.",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 50,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories",
-          "published_at": "2026-06-19T17:08:00+00:00",
-          "importance_score": 50
-        }
-      ]
-    },
-    {
-      "story_id": "d76adfa9a4af",
-      "title": "The Fed is forcing Wall Street to do the heavy lifting. Use these benchmarks to find your footing.",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 50,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
-          "published_at": "2026-06-19T16:59:00+00:00",
-          "importance_score": 50
-        }
-      ]
-    },
-    {
-      "story_id": "f3d4d62d7d76",
-      "title": "Is the stock market closed today for Juneteenth? Will the post office deliver mail?",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 50,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-juneteenth-will-the-post-office-deliver-mail-0569e453?mod=mw_rss_topstories",
-          "published_at": "2026-06-19T16:41:00+00:00",
-          "importance_score": 50
-        }
-      ]
-    },
-    {
-      "story_id": "c4fd7e0f8ff3",
-      "title": "Jio Platforms eyes low-orbit satellite rollout as Starlink awaits India launch",
+      "story_id": "11492e6378e2",
+      "title": "'Fun dads' get 5 things right about parenting that many people forget—'they're worth borrowing' this Father's Day, says expert",
       "label": "product",
       "label_zh": "产品业务",
       "importance_label": "medium",
       "importance_score": 48,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/jio-platforms-low-earth-orbit-satellites-starlink.html",
+      "primary_url": "https://www.cnbc.com/2026/06/20/fun-dads-get-5-things-right-about-parenting-that-many-people-forget-says-expert.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/jio-platforms-low-earth-orbit-satellites-starlink.html",
-          "published_at": "2026-06-19T12:16:34+00:00",
+          "url": "https://www.cnbc.com/2026/06/20/fun-dads-get-5-things-right-about-parenting-that-many-people-forget-says-expert.html",
+          "published_at": "2026-06-20T17:35:35+00:00",
           "importance_score": 48
         }
       ]
     },
     {
-      "story_id": "daac479a07b3",
-      "title": "UK gilt yields jump as borrowing rises and PM Starmer faces leadership challenge",
-      "label": "product",
-      "label_zh": "产品业务",
-      "importance_label": "medium",
-      "importance_score": 48,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/andy-burnham-makerfield-by-election.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/andy-burnham-makerfield-by-election.html",
-          "published_at": "2026-06-19T10:51:36+00:00",
-          "importance_score": 48
-        }
-      ]
-    },
-    {
-      "story_id": "4e9cf4061272",
-      "title": "Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack",
-      "label": "product",
-      "label_zh": "产品业务",
-      "importance_label": "medium",
-      "importance_score": 48,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html",
-          "published_at": "2026-06-19T10:25:57+00:00",
-          "importance_score": 48
-        }
-      ]
-    },
-    {
-      "story_id": "e21ea312cdc3",
-      "title": "My mother was co-owner of my late grandmother’s bank account. Should she share the money with her siblings?",
+      "story_id": "8f0ad1b2c76e",
+      "title": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
+      "primary_url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+          "published_at": "2026-06-21T10:22:45+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "d0cbb20d56b1",
+      "title": "‘Money can make you happy’: My wife and I have no heirs, but we’re making the world a better place by giving it away",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/my-mother-was-co-owner-of-my-late-grandmothers-bank-account-should-she-share-the-money-with-her-siblings-e54ed4df?mod=mw_rss_topstories",
-          "published_at": "2026-06-20T05:18:00+00:00",
+          "url": "https://www.marketwatch.com/story/money-can-make-you-happy-my-wife-and-i-have-no-heirs-but-were-making-the-world-a-better-place-by-giving-it-away-f61fad98?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T20:00:00+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "21265371cd82",
-      "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
+      "story_id": "da767e4ef836",
+      "title": "Scared to spend your retirement money? Here’s one way to get over the fear of running out.",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
-          "published_at": "2026-06-19T23:00:29+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "d023c1254948",
-      "title": "DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html",
-          "published_at": "2026-06-19T22:53:09+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "3f99f0e502c3",
-      "title": "My two sons will inherit a $30,000 annuity from their grandmother. What should I do with the money?",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
+      "primary_url": "https://www.marketwatch.com/story/scared-to-spend-your-retirement-money-heres-one-way-to-get-over-the-fear-of-running-out-05a13dd9?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/my-two-sons-will-inherit-a-30-000-annuity-from-their-grandmother-what-should-i-do-with-the-money-8882f396?mod=mw_rss_topstories",
-          "published_at": "2026-06-19T19:00:00+00:00",
+          "url": "https://www.marketwatch.com/story/scared-to-spend-your-retirement-money-heres-one-way-to-get-over-the-fear-of-running-out-05a13dd9?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T18:59:00+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "24d69c690844",
-      "title": "Employers to college students: Never mind that 4.0 GPA. Go out and get a summer job.",
+      "story_id": "1cac145c52f0",
+      "title": "You’re going to pay tax on RMDs — there’s no way around it. Or is there?",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/employers-to-college-students-skip-the-perfect-gpa-and-go-get-a-summer-job-e9ca5530?mod=mw_rss_topstories",
+      "primary_url": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/employers-to-college-students-skip-the-perfect-gpa-and-go-get-a-summer-job-e9ca5530?mod=mw_rss_topstories",
-          "published_at": "2026-06-19T18:52:00+00:00",
+          "url": "https://www.marketwatch.com/story/youre-going-to-pay-tax-on-rmds-theres-no-way-around-it-or-is-there-26e864cf?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T18:42:00+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "81a21754509d",
-      "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
+      "story_id": "f0cf7d350a3d",
+      "title": "Social Security is looking at a $500-a-month cut. Could a new bipartisan commission make a difference?",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
+      "primary_url": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
-          "published_at": "2026-06-19T18:30:00+00:00",
+          "url": "https://www.marketwatch.com/story/social-security-is-looking-at-a-500-a-month-cut-could-a-new-bipartisan-commission-make-a-difference-5e9d358a?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T18:36:00+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "ff299d07983c",
-      "title": "‘I’ll probably be working until I die’: I’m 60, work as a waiter and have $2,000 in a Roth IRA. What will happen to me?",
+      "story_id": "acbb7d106c35",
+      "title": "We read the Social Security and Medicare trustees reports. If you’re not worried, you should be.",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
+      "primary_url": "https://www.marketwatch.com/story/we-read-the-social-security-and-medicare-trustees-reports-if-youre-not-worried-you-should-be-ee1293e2?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/ill-probably-be-working-until-i-die-im-60-work-as-a-restaurant-server-and-have-2-000-in-an-ira-who-can-help-me-6e36253a?mod=mw_rss_topstories",
-          "published_at": "2026-06-19T18:00:00+00:00",
+          "url": "https://www.marketwatch.com/story/we-read-the-social-security-and-medicare-trustees-reports-if-youre-not-worried-you-should-be-ee1293e2?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T18:20:00+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "dbf265700e9e",
-      "title": "Struggling to find a job? Try looking in Nevada",
+      "story_id": "664baabde0e4",
+      "title": "Want to splurge on travel in retirement? Here’s how to plan for it.",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html",
-          "published_at": "2026-06-19T17:56:52+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "8f08db5defa1",
-      "title": "NetJets' first fatal crash kills influential Texas VC founder",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/netjets-first-fatal-crash-kills-influential-texas-vc-founder.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/netjets-first-fatal-crash-kills-influential-texas-vc-founder.html",
-          "published_at": "2026-06-19T16:50:59+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "e55cce8094cd",
-      "title": "Oil prices face fresh wave of volatility amid conflicting reports about Strait of Hormuz reopening and ongoing regional strife",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories",
+      "primary_url": "https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories",
-          "published_at": "2026-06-19T16:05:00+00:00",
+          "url": "https://www.marketwatch.com/story/want-to-splurge-on-travel-in-retirement-heres-how-to-plan-for-it-40bb26f2?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T18:17:00+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "71c02dfab115",
-      "title": "29-year-old making $250k in tech went 'undercover' at a coffee chain before opening her own matcha cafe",
+      "story_id": "548441e7c1ea",
+      "title": "The one-page pledge that forces your financial adviser to put you first",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/29-year-old-software-engineer-worked-undercover-at-a-coffee-chain.html",
+      "primary_url": "https://www.marketwatch.com/story/the-one-page-pledge-that-forces-your-financial-adviser-to-put-you-first-6e88ba07?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/the-one-page-pledge-that-forces-your-financial-adviser-to-put-you-first-6e88ba07?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T17:50:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "821ef8cb5890",
+      "title": "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+          "published_at": "2026-06-20T17:42:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "ecafc7df2d7a",
+      "title": "The budget airline model in the U.S. is running out of runway",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/29-year-old-software-engineer-worked-undercover-at-a-coffee-chain.html",
-          "published_at": "2026-06-19T14:00:01+00:00",
+          "url": "https://www.cnbc.com/2026/06/20/cheap-airline-fares-summer-travel.html",
+          "published_at": "2026-06-20T15:05:02+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "08d83fa79570",
-      "title": "In photos: Star-studded crowd gathers to celebrate the Obama Presidential Center dedication",
+      "story_id": "886926620af7",
+      "title": "Bitcoin's future as revolutionary as the smartphone, according to CoinDesk",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/18/obama-presidential-center-opening-chicago-photos-trump.html",
+      "primary_url": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/18/obama-presidential-center-opening-chicago-photos-trump.html",
-          "published_at": "2026-06-19T13:51:01+00:00",
+          "url": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html",
+          "published_at": "2026-06-20T15:00:01+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "e58b849a3313",
-      "title": "Homeowners tapped $47 billion in equity in the first quarter. What to consider before you borrow",
+      "story_id": "a3907eb24963",
+      "title": "AI buildout gives tech investors new reasons to watch bond market",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/home-equity-borrow.html",
+      "primary_url": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/home-equity-borrow.html",
-          "published_at": "2026-06-19T13:30:01+00:00",
+          "url": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+          "published_at": "2026-06-20T12:00:01+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "c9ce5b4cbbbe",
-      "title": "Bob Iger reflects on 10 years of Shanghai Disneyland as it defies the Chinese pullback",
+      "story_id": "1585f7c54afd",
+      "title": "SNAP restrictions could change what shoppers buy — and food giants are watching",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/bob-iger-shanghai-disneyland-chinese-pullback.html",
+      "primary_url": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/bob-iger-shanghai-disneyland-chinese-pullback.html",
-          "published_at": "2026-06-19T11:00:01+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "dcb1dd396a76",
-      "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
-          "published_at": "2026-06-19T10:47:57+00:00",
+          "url": "https://www.cnbc.com/2026/06/20/maha-snap-restrictions-junk-food-spending.html",
+          "published_at": "2026-06-20T12:00:01+00:00",
           "importance_score": 40
         }
       ]

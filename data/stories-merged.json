@@ -1,115 +1,1336 @@
 {
-  "generated_at": "2026-06-28T08:35:46.049970+00:00",
-  "total_stories": 26,
+  "generated_at": "2026-06-29T13:18:01.758625+00:00",
+  "total_stories": 64,
   "stories": [
     {
-      "story_id": "5c7fa7f006a2",
-      "title": "The AI trade cooled and oil sank. A closer look at Wall Street's volatile week",
-      "label": "earnings",
-      "label_zh": "财报业绩",
+      "story_id": "064ed7576c42",
+      "title": "[300638 广和通] 2026-033 关于调整2023年限制性股票激励计划限制性股票回购价格的公告",
+      "label": "capital",
+      "label_zh": "资本运作",
       "importance_label": "high",
       "importance_score": 75,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397414.PDF",
       "markets": [
-        "us"
+        "cn"
       ],
       "items": [
         {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/the-ai-trade-cooled-and-oil-sank-a-closer-look-at-wall-streets-volatile-week.html",
-          "published_at": "2026-06-27T16:39:52+00:00",
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397414.PDF",
+          "published_at": "2026-06-29T12:15:09+00:00",
           "importance_score": 75
         }
       ]
     },
     {
-      "story_id": "f2fa76564681",
-      "title": "SpaceX stock has cooled. Hiring for jobs in the space economy hasn't",
+      "story_id": "84f2e6cb1cf5",
+      "title": "[301339 通行宝] 关于回购注销部分限制性股票减资通知债权人的公告",
+      "label": "capital",
+      "label_zh": "资本运作",
+      "importance_label": "high",
+      "importance_score": 75,
+      "source_count": 1,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396808.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396808.PDF",
+          "published_at": "2026-06-29T11:00:09+00:00",
+          "importance_score": 75
+        }
+      ]
+    },
+    {
+      "story_id": "8bde367463cc",
+      "title": "Comcast soars 20% after announcing it will spin off NBCUniversal and Sky from cable business",
+      "label": "mna",
+      "label_zh": "并购重组",
+      "importance_label": "medium",
+      "importance_score": 65,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
+          "published_at": "2026-06-29T13:17:17+00:00",
+          "importance_score": 65
+        }
+      ]
+    },
+    {
+      "story_id": "22559c447a3f",
+      "title": "Comcast’s stock having best day in 18 years after plan to spin off NBCUniversal",
+      "label": "mna",
+      "label_zh": "并购重组",
+      "importance_label": "medium",
+      "importance_score": 65,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/comcast-to-spin-off-nbcuniversal-after-15-years-of-ownership-dad0597a?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/comcast-to-spin-off-nbcuniversal-after-15-years-of-ownership-dad0597a?mod=mw_rss_topstories",
+          "published_at": "2026-06-29T11:54:00+00:00",
+          "importance_score": 65
+        }
+      ]
+    },
+    {
+      "story_id": "f959d7c2bb39",
+      "title": "'This bargain is eroding': Inside the youngest generations' view of the American Dream",
+      "label": "macro",
+      "label_zh": "宏观数据",
+      "importance_label": "medium",
+      "importance_score": 65,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/29/gen-z-american-dream-eroding-redefining.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/29/gen-z-american-dream-eroding-redefining.html",
+          "published_at": "2026-06-29T09:55:01+00:00",
+          "importance_score": 65
+        }
+      ]
+    },
+    {
+      "story_id": "9edd26203b03",
+      "title": "內幕消息公告\n居民階梯電價政策調整",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902032_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902032_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640710+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "9da31d23ed7e",
+      "title": "組織章程大綱及經修訂及重列細則",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902034_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902034_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640705+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "2b37c7afbb1b",
+      "title": "於2026年6月29日舉行的股東週年大會投票結果",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 3,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902036_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902036_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640700+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902040_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640690+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902062_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640628+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "8394576c0b15",
+      "title": "特別股息",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/gem/2026/0629/2026062902038_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/gem/2026/0629/2026062902038_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640695+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "40dd1c34bc9b",
+      "title": "公司資料報表",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 2,
+      "primary_url": "/listedco/listconews/gem/2026/0629/2026062902042_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/gem/2026/0629/2026062902042_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640685+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/gem/2026/0629/2026062902058_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640638+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "8a800339d3f8",
+      "title": "海外監管公告 - 全資子公司參與投資私募股權投資基金的公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902043_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902043_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640680+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "c8baff06ee27",
+      "title": "截至二零二五年十二月三十一日止年度末期股息-股息貨幣選擇表格",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902046_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902046_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640675+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "f3ce8f28cb9a",
+      "title": "翌日披露報表",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 3,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902048_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902048_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640669+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902054_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640653+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902088_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640507+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "7c5103a93c7f",
+      "title": "於二零二六年六月二十九日舉行的\n經延期股東週年大會投票結果",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/gem/2026/0629/2026062902050_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/gem/2026/0629/2026062902050_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640664+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "77a53ede1cfe",
+      "title": "2026年6月29日舉行的股東週年大會投票結果",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902052_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902052_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640659+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "454e63e3a840",
+      "title": "須予披露交易 股權轉讓協議",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902056_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902056_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640644+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "ad9baab9219c",
+      "title": "(1) 於2026年6月29日舉行的股東週年大會\n投票表決結果；及\n(2)採納新組織章程大綱及細則",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902060_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902060_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640633+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "dba7e057508d",
+      "title": "截至二零二六年三月三十一日止年度全年業績公佈",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 2,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902064_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902064_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640622+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902080_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640562+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "860c8683a3c5",
+      "title": "截至2026年3月31日止年度的年度業績公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 2,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902066_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902066_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640616+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902070_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640604+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "42d9776ea571",
+      "title": "第十六次經修訂及重述的\n組織章程大綱及細則",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902068_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902068_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640610+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "d4a768f8aede",
+      "title": "有關復牌進度的季度最新消息",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902072_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902072_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640598+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "5f8f1ca71017",
+      "title": "延後(1)收購目標公司全部已發行股本涉及\n根據一般授權發行代價股份的須予披露交易；及\n(2)配售新股份的最後截止日期",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/gem/2026/0629/2026062902074_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/gem/2026/0629/2026062902074_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640591+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "952e965493d5",
+      "title": "配發結果公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902076_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902076_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640582+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "e0c3ae7aa496",
+      "title": "獨立非執行董事變更及董事委員會組成變動",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902078_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902078_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640572+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "3747bc246c79",
+      "title": "章程",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902082_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902082_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640555+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "8a88bdce9b5a",
+      "title": "獨立非執行董事辭任及董事委員會組成的變動",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/gem/2026/0629/2026062902084_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/gem/2026/0629/2026062902084_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640547+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "24629e0258ca",
+      "title": "董事名單與其角色和職能",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902086_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902086_c.pdf",
+          "published_at": "2026-06-29T13:17:56.640526+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "a047fe3a5da3",
+      "title": "最終發售價及配發結果公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/0629/2026062902090_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/0629/2026062902090_c.pdf",
+          "published_at": "2026-06-29T13:17:56.578541+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "fe937b0404b8",
+      "title": "[301297 富乐德] 关于控股股东的一致行动人提前终止减持计划暨股份减持实施结果的公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397842.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397842.PDF",
+          "published_at": "2026-06-29T13:04:09+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "d4d2ac4638a8",
+      "title": "[301045 天禄科技] 关于控股股东、实际控制人之一权益变动触及1%整数倍暨减持计划实施完毕的公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397599.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397599.PDF",
+          "published_at": "2026-06-29T12:24:09+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "73b47b0ed467",
+      "title": "[300548 长芯博创] 长芯博创科技股份有限公司关于持股5%以上股东股份变动触及1%整数倍的公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397253.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397253.PDF",
+          "published_at": "2026-06-29T11:46:09+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "d98a43c36659",
+      "title": "[300745 欣锐科技] 关于董事、高级管理人员减持股份的预披露公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397203.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397203.PDF",
+          "published_at": "2026-06-29T11:38:10+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "f0d463cde789",
+      "title": "[300973 立高食品] 关于持股5%以上股东股份减持计划的预披露公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397204.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225397204.PDF",
+          "published_at": "2026-06-29T11:38:09+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "ae978eb2e70a",
+      "title": "[300346 南大光电] 关于持股5%以上股东股份减持计划完成的公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396977.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396977.PDF",
+          "published_at": "2026-06-29T11:12:10+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "0d406496a1b5",
+      "title": "[300943 春晖智控] 浙江春晖智能控制股份有限公司关于深圳证券交易所《关于浙江春晖智能控制股份有限公司发行股份及支付现金购买资产申请的审核问询函》的回复",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 10,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396762.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396762.PDF",
+          "published_at": "2026-06-29T11:06:09+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396759.PDF",
+          "published_at": "2026-06-29T11:06:09+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396758.PDF",
+          "published_at": "2026-06-29T11:06:09+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396757.PDF",
+          "published_at": "2026-06-29T11:06:09+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396756.PDF",
+          "published_at": "2026-06-29T11:06:09+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "530675d78d3c",
+      "title": "[301033 迈普医学] 华泰联合证券有限责任公司关于广州迈普再生医学科技股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之独立财务顾问报告（注册稿）",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 4,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396633.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396633.PDF",
+          "published_at": "2026-06-29T10:42:10+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396632.PDF",
+          "published_at": "2026-06-29T10:42:09+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396631.PDF",
+          "published_at": "2026-06-29T10:42:09+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225396635.PDF",
+          "published_at": "2026-06-29T10:40:26+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "1ddc99fe734c",
+      "title": "[301079 邵阳液压] 华泰联合证券有限责任公司关于邵阳维克液压股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之独立财务顾问报告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 5,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395696.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395696.PDF",
+          "published_at": "2026-06-29T10:24:09+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395689.PDF",
+          "published_at": "2026-06-29T10:24:09+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395687.PDF",
+          "published_at": "2026-06-29T10:24:09+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395695.PDF",
+          "published_at": "2026-06-29T10:22:26+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395690.PDF",
+          "published_at": "2026-06-29T10:22:26+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "34bda5de4840",
+      "title": "[300907 康平科技] 关于控股股东增持公司股份触及1%整数倍的公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395725.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395725.PDF",
+          "published_at": "2026-06-29T10:22:26+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "756b1efe869e",
+      "title": "[301058 中粮科工] 关于合计持股5％以上股东减持期限届满暨实施情况的公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395598.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395598.PDF",
+          "published_at": "2026-06-29T10:22:10+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "b17308d1c40b",
+      "title": "[300644 南京聚隆] 关于持股5%以上股东减持计划期限届满的公告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395399.PDF",
+      "markets": [
+        "cn"
+      ],
+      "items": [
+        {
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-06-29/1225395399.PDF",
+          "published_at": "2026-06-29T10:22:09+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "99e4c39f0e76",
+      "title": "Baidu shares jump 7% as AI chip arm Kunlunxin said to target $50 billion Hong Kong IPO",
       "label": "capital",
       "label_zh": "资本运作",
       "importance_label": "medium",
       "importance_score": 55,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html",
+      "primary_url": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/spacex-jobs-stem-careers-labor-economy.html",
-          "published_at": "2026-06-27T13:17:30+00:00",
+          "url": "https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html",
+          "published_at": "2026-06-29T04:09:09+00:00",
           "importance_score": 55
         }
       ]
     },
     {
-      "story_id": "18a0cbe5e5e6",
-      "title": "Berkshire CEO Greg Abel sworn in as U.S. citizen at baseball game",
-      "label": "management",
-      "label_zh": "管理层",
+      "story_id": "d4c9e08857ee",
+      "title": "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
+      "label": "other",
+      "label_zh": "综合",
       "importance_label": "medium",
-      "importance_score": 55,
+      "importance_score": 50,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html",
+      "primary_url": "https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/berkshire-ceo-greg-abel-sworn-in-as-us-citizen-at-baseball-game.html",
-          "published_at": "2026-06-27T12:11:16+00:00",
-          "importance_score": 55
+          "url": "https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html",
+          "published_at": "2026-06-29T12:53:01+00:00",
+          "importance_score": 50
         }
       ]
     },
     {
-      "story_id": "13bb97da8a50",
-      "title": "SpaceX to join the Nasdaq-100 in a fast-tracked process that will drive huge ETF buying demand",
+      "story_id": "1d756ec085a6",
+      "title": "There’s a 67% chance stocks will suffer a bear market when this rare signal flashes — like it’s doing now",
       "label": "market",
       "label_zh": "大盘行情",
       "importance_label": "medium",
       "importance_score": 48,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
+      "primary_url": "https://www.marketwatch.com/story/theres-a-67-chance-stocks-will-suffer-a-bear-market-when-this-rare-signal-flashes-like-its-doing-now-c8916710?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html",
-          "published_at": "2026-06-27T21:34:59+00:00",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/theres-a-67-chance-stocks-will-suffer-a-bear-market-when-this-rare-signal-flashes-like-its-doing-now-c8916710?mod=mw_rss_topstories",
+          "published_at": "2026-06-29T11:37:00+00:00",
           "importance_score": 48
         }
       ]
     },
     {
-      "story_id": "db921d8fdfb6",
-      "title": "Red Lobster's Ultimate Endless Shrimp promotion is described as a 'car crash' for the company, lawsuit says",
-      "label": "market",
-      "label_zh": "大盘行情",
+      "story_id": "2cae833b7c30",
+      "title": "China's economy picks up in June on rebounding U.S. exports, analysts say",
+      "label": "product",
+      "label_zh": "产品业务",
       "importance_label": "medium",
       "importance_score": 48,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html",
+      "primary_url": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/26/red-lobsters-endless-shrimp-promotion-was-a-car-crash-lawsuit-says.html",
-          "published_at": "2026-06-27T13:36:21+00:00",
+          "url": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html",
+          "published_at": "2026-06-29T10:00:02+00:00",
           "importance_score": 48
         }
       ]
     },
     {
-      "story_id": "10fc288211b2",
-      "title": "From protein coffee to CBD soda: How brands are cashing in on the functional beverage boom",
+      "story_id": "5e7da1d0840e",
+      "title": "South Korea says Samsung and SK Hynix investing in AI, semiconductor mega-projects",
+      "label": "product",
+      "label_zh": "产品业务",
+      "importance_label": "medium",
+      "importance_score": 48,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
+          "published_at": "2026-06-29T06:44:15+00:00",
+          "importance_score": 48
+        }
+      ]
+    },
+    {
+      "story_id": "fb630d41a041",
+      "title": "America can't get enough of protein. The dairy industry can't keep up",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html",
+          "published_at": "2026-06-29T13:14:53+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "3ab58eb669a3",
+      "title": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
+          "published_at": "2026-06-29T12:55:16+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "4125296d0844",
+      "title": "Laser weapons aren’t science fiction anymore — and they’re changing how defense stocks are valued",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/laser-weapons-arent-science-fiction-anymore-and-theyre-changing-how-defense-stocks-are-valued-ff4c3910?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/laser-weapons-arent-science-fiction-anymore-and-theyre-changing-how-defense-stocks-are-valued-ff4c3910?mod=mw_rss_topstories",
+          "published_at": "2026-06-29T12:15:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "386022d785c2",
+      "title": "The AI boom is colliding with a new threat: Severe weather",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/29/ai-data-centers-heatwave-climate-risk-weather.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/29/ai-data-centers-heatwave-climate-risk-weather.html",
+          "published_at": "2026-06-29T11:56:14+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "abcb968365fc",
+      "title": "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html",
+          "published_at": "2026-06-29T11:04:36+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "52d8355590f4",
+      "title": "How the chip trade has come to resemble silver — a warning from Morgan Stanley’s Wilson",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/silver-and-the-semiconductor-climax-a-warning-from-morgan-stanleys-wilson-833e06e1?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/silver-and-the-semiconductor-climax-a-warning-from-morgan-stanleys-wilson-833e06e1?mod=mw_rss_topstories",
+          "published_at": "2026-06-29T11:02:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "0cd0f568639f",
+      "title": "People say I should wait until 70 to claim Social Security. When does delaying pay off?",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/people-say-i-should-wait-until-70-to-claim-social-security-when-does-delaying-pay-off-f1cd948c?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/people-say-i-should-wait-until-70-to-claim-social-security-when-does-delaying-pay-off-f1cd948c?mod=mw_rss_topstories",
+          "published_at": "2026-06-29T11:00:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "d1b8b3160ce3",
+      "title": "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/29/spacex-debt-diversification-equity-bond-investors-analysts.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/29/spacex-debt-diversification-equity-bond-investors-analysts.html",
+          "published_at": "2026-06-29T10:36:59+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "c4288e7539ff",
+      "title": "Why Apple pivoting to China for memory may not solve big tech’s microchip crisis",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/why-apple-pivoting-to-china-for-memory-may-not-solve-big-techs-microchip-crisis-51f3438d?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/why-apple-pivoting-to-china-for-memory-may-not-solve-big-techs-microchip-crisis-51f3438d?mod=mw_rss_topstories",
+          "published_at": "2026-06-29T10:32:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "aad38a14f4bd",
+      "title": "A ‘Magnificent Seven’ slump sent momentum stocks to their fourth-worst performance in 22 years. Here’s what happened 70% of the time.",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/magnificent-seven-slump-sent-momentum-stocks-to-their-fourth-worst-performance-in-22-years-heres-what-happens-70-of-the-time-720fd2e9?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/magnificent-seven-slump-sent-momentum-stocks-to-their-fourth-worst-performance-in-22-years-heres-what-happens-70-of-the-time-720fd2e9?mod=mw_rss_topstories",
+          "published_at": "2026-06-29T10:05:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "833edd1d95a9",
+      "title": "The central bank of central  banks warns AI frenzy could trigger stock-market slump and jeopardize economy",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/the-central-bank-of-central-banks-warns-ai-frenzy-could-trigger-stock-market-slump-and-jeopardize-economy-4d24b0a1?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/the-central-bank-of-central-banks-warns-ai-frenzy-could-trigger-stock-market-slump-and-jeopardize-economy-4d24b0a1?mod=mw_rss_topstories",
+          "published_at": "2026-06-29T09:13:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "424da6b1dd7f",
+      "title": "Why ‘permabear’ Jeremy Grantham is steering his own cash into high-flying tech companies",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/why-permabear-jeremy-grantham-is-steering-his-own-cash-into-high-flying-tech-stocks-911cb30f?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/why-permabear-jeremy-grantham-is-steering-his-own-cash-into-high-flying-tech-stocks-911cb30f?mod=mw_rss_topstories",
+          "published_at": "2026-06-29T09:05:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "98c4e1d51923",
+      "title": "After her return to the spotlight, ‘Every Year After’ star Elisha Cuthbert relists her Hollywood Hills home for $2.1 million",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/after-her-return-to-the-spotlight-every-year-after-star-elisha-cuthbert-relists-her-hollywood-hills-home-for-2-1-million-d1c294ea?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/after-her-return-to-the-spotlight-every-year-after-star-elisha-cuthbert-relists-her-hollywood-hills-home-for-2-1-million-d1c294ea?mod=mw_rss_topstories",
+          "published_at": "2026-06-29T09:04:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "9c21b65931d2",
+      "title": "Protein coffee? Brands cash in on functional beverage boom",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
@@ -123,412 +1344,28 @@
         {
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/06/28/protein-coffee-cbd-soda-starbucks-functional-beverage-boom.html",
-          "published_at": "2026-06-28T05:00:01+00:00",
+          "published_at": "2026-06-29T08:43:41+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "b38f27474bac",
-      "title": "U.S. military attacks Iranian targets after commercial tanker hit in the Strait of Hormuz",
+      "story_id": "0f927fea7285",
+      "title": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
+      "primary_url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html",
-          "published_at": "2026-06-27T22:54:45+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "af29cedef1d4",
-      "title": "How to work in retirement without seeing your Social Security checks slashed",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
-          "published_at": "2026-06-27T19:30:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "f59128d7bebb",
-      "title": "Americans’ 401(k) balances hit record levels last year. See how you compare.",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 2,
-      "primary_url": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/americans-401-k-balances-hit-record-levels-last-year-see-how-you-compare-facd32c4?mod=mw_rss_topstories",
-          "published_at": "2026-06-27T19:30:00+00:00",
-          "importance_score": 40
-        },
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/american-couple-left-united-states-bought-italy-house-cassandra-tresl-alex-ninman.html",
-          "published_at": "2026-06-27T14:00:02+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "f0cf7d350a3d",
-      "title": "Social Security says I was overpaid for 7 years. I believe it’s mistaken. Can they cut my benefits?",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/social-security-says-i-was-overpaid-for-7-years-i-believe-its-mistaken-can-they-cut-my-benefits-f2d4a524?mod=mw_rss_topstories",
-          "published_at": "2026-06-27T19:30:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "efce305b3eff",
-      "title": "This disease is more expensive than cancer and heart disease combined. And it’s only going to get worse.",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/this-disease-is-more-expensive-than-cancer-and-heart-disease-combined-and-its-only-going-to-get-worse-797b72d9?mod=mw_rss_topstories",
-          "published_at": "2026-06-27T19:30:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "f5b2dc8a03ba",
-      "title": "Older Americans will soon have Medicare access to GLP-1s for weight loss for the first time. Here’s what they need to know.",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/millions-of-older-americans-will-soon-have-medicare-access-to-glp-1s-for-weight-loss-heres-what-they-need-to-know-758efe4c?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/millions-of-older-americans-will-soon-have-medicare-access-to-glp-1s-for-weight-loss-heres-what-they-need-to-know-758efe4c?mod=mw_rss_topstories",
-          "published_at": "2026-06-27T19:30:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "2ccf6630516a",
-      "title": "Germany is considering raising its retirement age to 70. Could the U.S. follow?",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/could-the-u-s-join-germany-in-raising-its-retirement-age-3282e0bd?mod=mw_rss_topstories",
-          "published_at": "2026-06-27T19:30:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "59a0f5f81d08",
-      "title": "Take a cue from the rich: Do a midyear financial check-in",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/take-a-cue-from-the-rich-do-a-midyear-financial-check-in-028a60e8?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/take-a-cue-from-the-rich-do-a-midyear-financial-check-in-028a60e8?mod=mw_rss_topstories",
-          "published_at": "2026-06-27T19:30:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "9f541d4d1e69",
-      "title": "A new bill would cap Medicare enrollees’ annual expenses at $5,000 — and could cost the government ‘tens of billions’",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/a-new-bill-would-cap-medicare-enrollees-annual-expenses-at-5-000-and-could-cost-the-government-tens-of-billions-d370bb37?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/a-new-bill-would-cap-medicare-enrollees-annual-expenses-at-5-000-and-could-cost-the-government-tens-of-billions-d370bb37?mod=mw_rss_topstories",
-          "published_at": "2026-06-27T19:30:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "c2906e92b496",
-      "title": "Discounted bond funds, especially at scandal-hit Wamco, may offer an investment opportunity",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/discounted-bond-funds-especially-at-scandal-hit-wamco-may-offer-an-investment-opportunity-2afa77e8?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/discounted-bond-funds-especially-at-scandal-hit-wamco-may-offer-an-investment-opportunity-2afa77e8?mod=mw_rss_topstories",
-          "published_at": "2026-06-27T19:30:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "c0c9e414e7f5",
-      "title": "Annuities are coming to more 401(k) plans. Should workers embrace them?",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/annuities-are-coming-to-more-401-k-plans-should-workers-embrace-them-78f014e9?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/annuities-are-coming-to-more-401-k-plans-should-workers-embrace-them-78f014e9?mod=mw_rss_topstories",
-          "published_at": "2026-06-27T19:30:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "c12f252e3eb4",
-      "title": "Why investors may want to prioritize bond markets outside the U.S.",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html",
-          "published_at": "2026-06-27T15:00:01+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "0ad6f7fc8681",
-      "title": "‘Heated Rivalry’ fuels a boom in gay romance stories, with women leading the fandom",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/heated-rivalry-red-white-royal-blue-rachel-reid-gay-romance-yaoi-mlm.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/heated-rivalry-red-white-royal-blue-rachel-reid-gay-romance-yaoi-mlm.html",
-          "published_at": "2026-06-27T14:54:47+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "37d1b6b17467",
-      "title": "Before there were Trump Accounts, SEED OK gave some newborns $1,000 — how researchers say the grants affected kids",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/trump-accounts-seed-ok.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/trump-accounts-seed-ok.html",
-          "published_at": "2026-06-27T13:30:01+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "9abb59528764",
-      "title": "The memory shortage shaking Apple and Microsoft is 'existential crisis' for smaller players",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/memory-crunch-shaking-apple-and-microsoft-existential-for-small-guys.html",
-          "published_at": "2026-06-27T13:21:37+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "6842dcc31420",
-      "title": "Jeremy Grantham says, 'This is the most expensive market in American history'",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html",
-          "published_at": "2026-06-27T12:22:08+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "1dec62d63dba",
-      "title": "Trading in these two ETFs suggests inflation fears are overblown",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/trading-in-these-two-etfs-suggests-inflation-fears-are-overblown.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/trading-in-these-two-etfs-suggests-inflation-fears-are-overblown.html",
-          "published_at": "2026-06-27T12:18:58+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "9d2f94435dd7",
-      "title": "How GE Vernova builds the massive gas turbines powering the AI data center boom",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/ge-vernova-gas-turbines-ai-data-centers.html",
-          "published_at": "2026-06-27T12:00:01+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "88976ba78acf",
-      "title": "How Kohl's lost its way — and is trying to become relevant again",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/06/27/how-kohls-lost-its-way-and-is-trying-to-become-relevant-again.html",
-          "published_at": "2026-06-27T12:00:01+00:00",
+          "url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html",
+          "published_at": "2026-06-29T04:46:25+00:00",
           "importance_score": 40
         }
       ]
@@ -549,7 +1386,70 @@
         {
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html",
-          "published_at": "2026-06-27T09:46:16+00:00",
+          "published_at": "2026-06-29T01:47:45+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "29fc03528f9a",
+      "title": "Everything tied to the data center is suddenly suspect. Can Big Tech fix it?",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/28/cramer-the-data-center-is-suddenly-suspect-can-big-tech-fix-it.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/28/cramer-the-data-center-is-suddenly-suspect-can-big-tech-fix-it.html",
+          "published_at": "2026-06-28T22:09:47+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "7ac857100d79",
+      "title": "IRAs hold trillions more than 401(k) plans — yet people hardly save in them",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/28/ira-money-401k-rollovers.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/28/ira-money-401k-rollovers.html",
+          "published_at": "2026-06-28T13:30:01+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "a4bbe5c2bbf2",
+      "title": "If you think China needs to dethrone U.S. dollar, you don't understand how it is waging global currency war",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html",
+          "published_at": "2026-06-28T13:25:43+00:00",
           "importance_score": 40
         }
       ]

@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-03T22:53:46.024980+00:00",
+  "generated_at": "2026-08-04T22:53:35.547686+00:00",
   "total_items": 20,
   "items": [
     {
-      "title": "[300408 三环集团] 关于首次回购公司股份暨回购公司股份进展的公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225456086.PDF",
-      "published_at": "2026-08-03T12:04:28+00:00",
+      "title": "[301120 新特电气] 关于回购公司股份方案的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458503.PDF",
+      "published_at": "2026-08-04T12:08:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300408",
-        "sec_name": "三环集团"
+        "sec_code": "301120",
+        "sec_name": "新特电气"
       },
-      "id": "803aa66c5ce4",
+      "id": "0e8d5e4cb000",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -23,19 +23,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300274 阳光电源] 关于回购公司股份方案的公告暨回购股份报告书",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225456082.PDF",
-      "published_at": "2026-08-03T11:52:28+00:00",
+      "title": "[300739 明阳电路] 关于回购注销部分限制性股票的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458487.PDF",
+      "published_at": "2026-08-04T12:07:26+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300274",
-        "sec_name": "阳光电源"
+        "sec_code": "300739",
+        "sec_name": "明阳电路"
       },
-      "id": "2c8e8a3eab51",
+      "id": "c10b32f5b170",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -43,19 +43,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300631 久吾高科] 回购股份报告书公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225456079.PDF",
-      "published_at": "2026-08-03T11:52:28+00:00",
+      "title": "[300739 明阳电路] 关于回购注销限制性股票的减资公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458486.PDF",
+      "published_at": "2026-08-04T12:07:26+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300631",
-        "sec_name": "久吾高科"
+        "sec_code": "300739",
+        "sec_name": "明阳电路"
       },
-      "id": "b96d255674ea",
+      "id": "26fa121b8f77",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -63,19 +63,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300631 久吾高科] 关于回购公司股份方案的公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225456080.PDF",
-      "published_at": "2026-08-03T11:52:11+00:00",
+      "title": "[301376 致欧科技] 关于回购公司股份的进展公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458330.PDF",
+      "published_at": "2026-08-04T11:16:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300631",
-        "sec_name": "久吾高科"
+        "sec_code": "301376",
+        "sec_name": "致欧科技"
       },
-      "id": "7bd7cf5041c2",
+      "id": "8891103b79fc",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -83,29 +83,9 @@
       "importance_score": 75
     },
     {
-      "title": "[300347 泰格医药] 关于回购公司股份的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225456075.PDF",
-      "published_at": "2026-08-03T11:45:57+00:00",
-      "source": "巨潮资讯",
-      "source_id": "cninfo",
-      "source_tier_rank": 0,
-      "market": "cn",
-      "summary": "",
-      "raw": {
-        "sec_code": "300347",
-        "sec_name": "泰格医药"
-      },
-      "id": "79f7f9cf51ff",
-      "label": "capital",
-      "label_zh": "资本运作",
-      "market_zh": "A股",
-      "importance_label": "high",
-      "importance_score": 75
-    },
-    {
-      "title": "[300232 洲明科技] 关于回购公司股份方案的公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225456051.PDF",
-      "published_at": "2026-08-03T11:45:56+00:00",
+      "title": "[300232 洲明科技] 关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458312.PDF",
+      "published_at": "2026-08-04T11:12:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
@@ -115,7 +95,7 @@
         "sec_code": "300232",
         "sec_name": "洲明科技"
       },
-      "id": "fb5175a98181",
+      "id": "10bea2ba6b70",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -123,19 +103,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300132 青松股份] 关于回购公司股份用于注销并减少注册资本暨通知债权人的公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225456037.PDF",
-      "published_at": "2026-08-03T11:45:54+00:00",
+      "title": "[300232 洲明科技] 回购报告书",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458311.PDF",
+      "published_at": "2026-08-04T11:12:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300132",
-        "sec_name": "青松股份"
+        "sec_code": "300232",
+        "sec_name": "洲明科技"
       },
-      "id": "c21ff5d1a130",
+      "id": "a0f8905d5797",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -143,19 +123,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300132 青松股份] 回购报告书",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225456031.PDF",
-      "published_at": "2026-08-03T11:45:54+00:00",
+      "title": "[300250 初灵信息] 关于回购股份集中竞价减持的进展公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458265.PDF",
+      "published_at": "2026-08-04T11:04:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300132",
-        "sec_name": "青松股份"
+        "sec_code": "300250",
+        "sec_name": "初灵信息"
       },
-      "id": "84c47742d23e",
+      "id": "85ac6ee92900",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -163,19 +143,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300691 联合光电] 关于回购公司股份的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225454145.PDF",
-      "published_at": "2026-08-03T10:50:11+00:00",
+      "title": "[301087 可孚医疗] 关于回购公司A股股份的进展公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458175.PDF",
+      "published_at": "2026-08-04T10:52:13+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300691",
-        "sec_name": "联合光电"
+        "sec_code": "301087",
+        "sec_name": "可孚医疗"
       },
-      "id": "3d77a8b42262",
+      "id": "ecff62e8e6a2",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -183,19 +163,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300162 雷曼光电] 关于出售已回购股份的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225455262.PDF",
-      "published_at": "2026-08-03T10:22:28+00:00",
+      "title": "[300689 澄天伟业] 关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225457922.PDF",
+      "published_at": "2026-08-04T10:52:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300162",
-        "sec_name": "雷曼光电"
+        "sec_code": "300689",
+        "sec_name": "澄天伟业"
       },
-      "id": "82d25fbfb04c",
+      "id": "4b055f5d7832",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -203,19 +183,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300532 今天国际] 关于回购公司股份的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225455231.PDF",
-      "published_at": "2026-08-03T10:18:29+00:00",
+      "title": "[300689 澄天伟业] 关于首次回购公司股份暨回购进展的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225457921.PDF",
+      "published_at": "2026-08-04T10:52:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300532",
-        "sec_name": "今天国际"
+        "sec_code": "300689",
+        "sec_name": "澄天伟业"
       },
-      "id": "966e42e82c8f",
+      "id": "e1725d143c8e",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -223,19 +203,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300095 华伍股份] 回购股份报告书",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225455217.PDF",
-      "published_at": "2026-08-03T10:18:29+00:00",
+      "title": "[300702 天宇股份] 关于回购公司股份进展的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458081.PDF",
+      "published_at": "2026-08-04T10:36:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300095",
-        "sec_name": "华伍股份"
+        "sec_code": "300702",
+        "sec_name": "天宇股份"
       },
-      "id": "88b1e481b961",
+      "id": "5bb9817d46f5",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -243,19 +223,19 @@
       "importance_score": 75
     },
     {
-      "title": "[301275 汉朔科技] 关于回购公司股份的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225455214.PDF",
-      "published_at": "2026-08-03T10:18:29+00:00",
+      "title": "[301248 杰创智能] 关于股份回购进展的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458040.PDF",
+      "published_at": "2026-08-04T10:32:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "301275",
-        "sec_name": "汉朔科技"
+        "sec_code": "301248",
+        "sec_name": "杰创智能"
       },
-      "id": "3a710be551b2",
+      "id": "4c8df2e4b1d1",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -263,19 +243,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300095 华伍股份] 关于回购股份进展情况的公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225455218.PDF",
-      "published_at": "2026-08-03T10:16:30+00:00",
+      "title": "[300184 力源信息] 关于回购股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458003.PDF",
+      "published_at": "2026-08-04T10:28:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300095",
-        "sec_name": "华伍股份"
+        "sec_code": "300184",
+        "sec_name": "力源信息"
       },
-      "id": "9e0044464252",
+      "id": "534ace607a98",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -283,19 +263,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300138 晨光生物] 关于回购公司股份的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225455215.PDF",
-      "published_at": "2026-08-03T10:16:11+00:00",
+      "title": "[300184 力源信息] 关于取得金融机构股票回购专项贷款承诺函的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458002.PDF",
+      "published_at": "2026-08-04T10:28:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300138",
-        "sec_name": "晨光生物"
+        "sec_code": "300184",
+        "sec_name": "力源信息"
       },
-      "id": "d704fc9f165e",
+      "id": "b37a316e4835",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -303,19 +283,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300296 利亚德] 关于股份回购的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225455156.PDF",
-      "published_at": "2026-08-03T10:12:29+00:00",
+      "title": "[300002 神州泰岳] 关于回购股份进展的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458001.PDF",
+      "published_at": "2026-08-04T10:28:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300296",
-        "sec_name": "利亚德"
+        "sec_code": "300002",
+        "sec_name": "神州泰岳"
       },
-      "id": "ef73c677e65b",
+      "id": "52ac405a0e65",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -323,19 +303,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300624 万兴科技] 关于回购公司股份的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225455154.PDF",
-      "published_at": "2026-08-03T10:12:28+00:00",
+      "title": "[301110 青木科技] 关于回购公司股份的进展公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225458000.PDF",
+      "published_at": "2026-08-04T10:28:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300624",
-        "sec_name": "万兴科技"
+        "sec_code": "301110",
+        "sec_name": "青木科技"
       },
-      "id": "7d7370c28826",
+      "id": "8dbbe1ac5c96",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -343,19 +323,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300304 云意电气] 关于回购公司股份的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225454669.PDF",
-      "published_at": "2026-08-03T09:36:28+00:00",
+      "title": "[300017 网宿科技] 关于回购公司股份事项前十名股东及前十名无限售条件股东持股情况的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225457957.PDF",
+      "published_at": "2026-08-04T10:22:13+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300304",
-        "sec_name": "云意电气"
+        "sec_code": "300017",
+        "sec_name": "网宿科技"
       },
-      "id": "7b30551b0343",
+      "id": "31251746c740",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -363,19 +343,19 @@
       "importance_score": 75
     },
     {
-      "title": "[300253 卫宁健康] 关于回购股份的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225454616.PDF",
-      "published_at": "2026-08-03T09:32:28+00:00",
+      "title": "[300351 永贵电器] 关于回购公司股份比例达到1%暨回购进展公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225457952.PDF",
+      "published_at": "2026-08-04T10:22:13+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "300253",
-        "sec_name": "卫宁健康"
+        "sec_code": "300351",
+        "sec_name": "永贵电器"
       },
-      "id": "9b251bc14de4",
+      "id": "af2231fc5dc7",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",
@@ -383,19 +363,39 @@
       "importance_score": 75
     },
     {
-      "title": "[301320 豪江智能] 关于回购公司股份的进展公告",
-      "url": "http://static.cninfo.com.cn/finalpage/2026-08-03/1225454613.PDF",
-      "published_at": "2026-08-03T09:28:29+00:00",
+      "title": "[301161 唯万密封] 关于以集中竞价交易方式回购公司股份的进展公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225457951.PDF",
+      "published_at": "2026-08-04T10:22:12+00:00",
       "source": "巨潮资讯",
       "source_id": "cninfo",
       "source_tier_rank": 0,
       "market": "cn",
       "summary": "",
       "raw": {
-        "sec_code": "301320",
-        "sec_name": "豪江智能"
+        "sec_code": "301161",
+        "sec_name": "唯万密封"
       },
-      "id": "5fef519a8310",
+      "id": "352f1dc3bc86",
+      "label": "capital",
+      "label_zh": "资本运作",
+      "market_zh": "A股",
+      "importance_label": "high",
+      "importance_score": 75
+    },
+    {
+      "title": "[300802 矩子科技] 关于取得金融机构股票回购贷款承诺函的公告",
+      "url": "http://static.cninfo.com.cn/finalpage/2026-08-04/1225457924.PDF",
+      "published_at": "2026-08-04T10:16:12+00:00",
+      "source": "巨潮资讯",
+      "source_id": "cninfo",
+      "source_tier_rank": 0,
+      "market": "cn",
+      "summary": "",
+      "raw": {
+        "sec_code": "300802",
+        "sec_name": "矩子科技"
+      },
+      "id": "21d89169cc15",
       "label": "capital",
       "label_zh": "资本运作",
       "market_zh": "A股",

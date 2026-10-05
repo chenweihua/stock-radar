@@ -1,171 +1,738 @@
 {
-  "generated_at": "2026-10-04T00:15:26.452417+00:00",
-  "total_stories": 24,
+  "generated_at": "2026-10-05T00:20:13.718890+00:00",
+  "total_stories": 44,
   "stories": [
     {
-      "story_id": "5f62cc96b341",
-      "title": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
-      "label": "macro",
-      "label_zh": "宏观数据",
+      "story_id": "49ad3888dd6a",
+      "title": "穩定價格行動、穩定價格期結束及超額配股權失效",
+      "label": "capital",
+      "label_zh": "资本运作",
+      "importance_label": "high",
+      "importance_score": 75,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1004/2026100400014_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1004/2026100400014_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499312+00:00",
+          "importance_score": 75
+        }
+      ]
+    },
+    {
+      "story_id": "9d8f03265c32",
+      "title": "Corporate America has never been this upbeat about future profits",
+      "label": "earnings",
+      "label_zh": "财报业绩",
+      "importance_label": "high",
+      "importance_score": 75,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
+          "published_at": "2026-10-04T14:00:00+00:00",
+          "importance_score": 75
+        }
+      ]
+    },
+    {
+      "story_id": "282639a1a127",
+      "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+      "label": "capital",
+      "label_zh": "资本运作",
       "importance_label": "medium",
       "importance_score": 65,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+      "primary_url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
-          "published_at": "2026-10-03T17:57:40+00:00",
+          "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+          "published_at": "2026-10-04T20:28:47+00:00",
           "importance_score": 65
         }
       ]
     },
     {
-      "story_id": "b0542499a3ef",
-      "title": "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-      "label": "management",
-      "label_zh": "管理层",
+      "story_id": "b3187be91660",
+      "title": "This NYC startup requires 4 days in office but just let everyone work remote for a whole month",
+      "label": "macro",
+      "label_zh": "宏观数据",
       "importance_label": "medium",
-      "importance_score": 55,
+      "importance_score": 65,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
+      "primary_url": "https://www.cnbc.com/2026/10/04/work-from-anywhere-month.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
-          "published_at": "2026-10-03T11:00:01+00:00",
+          "url": "https://www.cnbc.com/2026/10/04/work-from-anywhere-month.html",
+          "published_at": "2026-10-04T14:00:01+00:00",
+          "importance_score": 65
+        }
+      ]
+    },
+    {
+      "story_id": "3899238e2a88",
+      "title": "股份代號 : 9102, 3102, 83102 月報表",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1004/2026100400012_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1004/2026100400012_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499316+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "c8dc742192fa",
+      "title": "股份代號 : 3587, 83587, 41587 月報表",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1004/2026100400016_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1004/2026100400016_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499309+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "d9c5cf6c8861",
+      "title": "翌日披露報表 - 股份購回",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1004/2026100400018_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1004/2026100400018_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499305+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "f3ce8f28cb9a",
+      "title": "翌日披露報表",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 6,
+      "primary_url": "/listedco/listconews/sehk/2026/1004/2026100400020_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1004/2026100400020_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499302+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1004/2026100400030_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499284+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500088_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499252+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500090_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499247+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500096_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499232+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "178291ca2c17",
+      "title": "內幕消息",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1004/2026100400022_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1004/2026100400022_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499298+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "4f0e00a97ccb",
+      "title": "截至2026年9月30日之股份發行人的證券變動月報表",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 3,
+      "primary_url": "/listedco/listconews/gem/2026/1004/2026100400024_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/gem/2026/1004/2026100400024_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499295+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/gem/2026/1004/2026100400026_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499291+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/gem/2026/1004/2026100400028_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499287+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "785405d0aa89",
+      "title": "截至二零二六年九月三十日止股份發行人的證券變動月報表",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 2,
+      "primary_url": "/listedco/listconews/sehk/2026/1004/2026100400032_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1004/2026100400032_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499280+00:00",
+          "importance_score": 60
+        },
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/gem/2026/1005/2026100500078_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499272+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "fb0e99e75608",
+      "title": "境外債務重組之重大進展",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500002_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500002_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499275+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "1c5b18fe7779",
+      "title": "內幕消息 - 境外重組之重大進展及清盤呈請之最新情況",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500080_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500080_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499268+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "f631d5bf7cc9",
+      "title": "有關出售附帶租約的飛機的須予披露及關連交易及股東特別大會通告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500082_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500082_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499264+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "9197281a4beb",
+      "title": "股東特別大會通告",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500084_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500084_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499260+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "06f05120fd06",
+      "title": "股東特別大會委託書",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500086_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500086_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499256+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "54b9b3a2555e",
+      "title": "公告 - 每日目標槓桿倍數",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500092_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500092_c.pdf",
+          "published_at": "2026-10-05T00:20:08.499243+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "07d6a3f3ed65",
+      "title": "2846, 9846, 82846, 3115, 9115, 83115 NEWS",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500094_c.xlsx",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500094_c.xlsx",
+          "published_at": "2026-10-05T00:20:08.499238+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "0eb280589cd4",
+      "title": "2823, 82823 NEWS",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500098_c.xlsx",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500098_c.xlsx",
+          "published_at": "2026-10-05T00:20:08.499225+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "db88a4890c75",
+      "title": "3010, 9010, 83010 NEWS",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500100_c.xlsx",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500100_c.xlsx",
+          "published_at": "2026-10-05T00:20:08.499217+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "71b00fd02b66",
+      "title": "9074, 3074, 9834, 2834, 2836, 9836 NEWS",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500102_c.xlsx",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500102_c.xlsx",
+          "published_at": "2026-10-05T00:20:08.499210+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "a8ef2e4531c7",
+      "title": "沛富基金(股份代號 : 2821) 的資料",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500106_c.xlsx",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500106_c.xlsx",
+          "published_at": "2026-10-05T00:20:08.499199+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "d1f93bf57fae",
+      "title": "3067, 9067, 2801, 9801 NEWS",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500108_c.xlsx",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500108_c.xlsx",
+          "published_at": "2026-10-05T00:20:08.499182+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "bd098f26a612",
+      "title": "82829, 9829, 2829 NEWS",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500112_c.xlsx",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500112_c.xlsx",
+          "published_at": "2026-10-05T00:20:08.499171+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "49036f0503cc",
+      "title": "須予披露交易\n提供財務資助",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 60,
+      "source_count": 1,
+      "primary_url": "/listedco/listconews/sehk/2026/1005/2026100500114_c.pdf",
+      "markets": [
+        "hk"
+      ],
+      "items": [
+        {
+          "source": "港交所披露",
+          "url": "/listedco/listconews/sehk/2026/1005/2026100500114_c.pdf",
+          "published_at": "2026-10-05T00:20:08.485505+00:00",
+          "importance_score": 60
+        }
+      ]
+    },
+    {
+      "story_id": "26b7c92418eb",
+      "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+      "label": "capital",
+      "label_zh": "资本运作",
+      "importance_label": "medium",
+      "importance_score": 55,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+          "published_at": "2026-10-04T13:22:39+00:00",
           "importance_score": 55
         }
       ]
     },
     {
-      "story_id": "f046d00a0ee3",
-      "title": "Top McKinsey executive reveals Asian owner-CEOs' secrets to success",
+      "story_id": "054f7c068ca8",
+      "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
       "label": "management",
       "label_zh": "管理层",
       "importance_label": "medium",
       "importance_score": 55,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/mckinsey-asian-leaders-success-ambani-mahindra.html",
+      "primary_url": "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/mckinsey-asian-leaders-success-ambani-mahindra.html",
-          "published_at": "2026-10-03T06:00:01+00:00",
+          "url": "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
+          "published_at": "2026-10-04T12:08:54+00:00",
           "importance_score": 55
         }
       ]
     },
     {
-      "story_id": "7338ec6fee81",
-      "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
-      "label": "product",
-      "label_zh": "产品业务",
+      "story_id": "848c78bbac00",
+      "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
+      "label": "other",
+      "label_zh": "综合",
       "importance_label": "medium",
-      "importance_score": 48,
+      "importance_score": 50,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+      "primary_url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+          "published_at": "2026-10-04T12:00:00+00:00",
+          "importance_score": 50
+        }
+      ]
+    },
+    {
+      "story_id": "a621bfe0b93c",
+      "title": "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
-          "published_at": "2026-10-03T20:29:07+00:00",
-          "importance_score": 48
-        }
-      ]
-    },
-    {
-      "story_id": "93d2b9665ba9",
-      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
-      "label": "product",
-      "label_zh": "产品业务",
-      "importance_label": "medium",
-      "importance_score": 48,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-          "published_at": "2026-10-03T17:24:00+00:00",
-          "importance_score": 48
-        }
-      ]
-    },
-    {
-      "story_id": "0c2f6fcd8461",
-      "title": "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
-          "published_at": "2026-10-04T00:02:00+00:00",
+          "url": "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+          "published_at": "2026-10-04T22:08:34+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "14aeb8447d11",
-      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "story_id": "f2aa7dea10fe",
+      "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran in the Middle East",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-          "published_at": "2026-10-03T23:58:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "848eb3abf188",
-      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "primary_url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-          "published_at": "2026-10-03T23:37:23+00:00",
+          "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
+          "published_at": "2026-10-04T21:46:15+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "20ba0c50a557",
+      "title": "It's time for us to put cash to work in this ugly market. Here's where we will do our buying",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/investingclub/2026/10/04/its-time-for-us-to-put-cash-to-work-in-this-ugly-market-heres-where-we-will-do-our-buying.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/investingclub/2026/10/04/its-time-for-us-to-put-cash-to-work-in-this-ugly-market-heres-where-we-will-do-our-buying.html",
+          "published_at": "2026-10-04T20:32:16+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "60420b34c06b",
+      "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+          "published_at": "2026-10-04T20:31:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "d0c271cbf5cc",
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+          "published_at": "2026-10-04T20:00:00+00:00",
           "importance_score": 40
         }
       ]
@@ -186,7 +753,7 @@
         {
           "source": "MarketWatch",
           "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-          "published_at": "2026-10-03T20:00:00+00:00",
+          "published_at": "2026-10-04T19:30:00+00:00",
           "importance_score": 40
         }
       ]
@@ -207,196 +774,133 @@
         {
           "source": "MarketWatch",
           "url": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-          "published_at": "2026-10-03T19:30:00+00:00",
+          "published_at": "2026-10-04T19:08:00+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "d275a00a50c2",
-      "title": "These bond strategies can help you get a safe 5% return on your cash",
+      "story_id": "1ac42ced5f7a",
+      "title": "Starting a watch collection? What beginners should know before buying",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-          "published_at": "2026-10-03T18:49:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "8ddfb4ef495e",
-      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-          "published_at": "2026-10-03T18:30:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "81fac6c7650c",
-      "title": "Switching jobs to get higher pay works best in these industries",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-          "published_at": "2026-10-03T16:42:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "e2c95922d409",
-      "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-          "published_at": "2026-10-03T16:00:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "4e7c782d812d",
-      "title": "The No. 1 mistake beginners make with travel cards, according to The Points Guy",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/the-no-1-mistake-beginners-make-with-travel-cards-according-to-the-points-guy-3502e859?mod=mw_rss_topstories",
-          "published_at": "2026-10-03T15:42:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "edfa4b34d77c",
-      "title": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
+      "primary_url": "https://www.cnbc.com/2026/10/04/watch-collecting-beginners.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
-          "published_at": "2026-10-03T15:06:10+00:00",
+          "url": "https://www.cnbc.com/2026/10/04/watch-collecting-beginners.html",
+          "published_at": "2026-10-04T13:44:31+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "98667fe00c37",
-      "title": "Gen Alpha kids are earning money. Here's how parents can help them save and invest",
+      "story_id": "c902b11d671a",
+      "title": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/investing-for-kids-accounts.html",
+      "primary_url": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/investing-for-kids-accounts.html",
-          "published_at": "2026-10-03T14:00:01+00:00",
+          "url": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
+          "published_at": "2026-10-04T13:24:16+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "50d283499900",
-      "title": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
+      "story_id": "b031926358e2",
+      "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
+      "primary_url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+          "published_at": "2026-10-04T13:00:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "f5bebd81ae4b",
+      "title": "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
-          "published_at": "2026-10-03T13:30:48+00:00",
+          "url": "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+          "published_at": "2026-10-04T12:57:45+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "b0fc3ef132c8",
-      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
+      "story_id": "848eb3abf188",
+      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
+      "primary_url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
-          "published_at": "2026-10-03T13:12:27+00:00",
+          "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+          "published_at": "2026-10-04T12:53:12+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "c2526c61252f",
+      "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
+          "published_at": "2026-10-04T12:00:01+00:00",
           "importance_score": 40
         }
       ]
@@ -417,91 +921,49 @@
         {
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
-          "published_at": "2026-10-03T12:55:31+00:00",
+          "published_at": "2026-10-04T09:33:19+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "94dc7568cbab",
-      "title": "America’s data center fight is a preview of what's to come for the rest of the world",
+      "story_id": "b0f1ec8225e7",
+      "title": "Singapore debuts a state-backed dating app for young government workers as it works to slow a demographic crisis",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+      "primary_url": "https://www.cnbc.com/2026/10/04/government-dating-app-fertility-singapore-asia.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
-          "published_at": "2026-10-03T12:39:29+00:00",
+          "url": "https://www.cnbc.com/2026/10/04/government-dating-app-fertility-singapore-asia.html",
+          "published_at": "2026-10-04T05:09:49+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "64a0b6f60b01",
-      "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+      "story_id": "1d5dc5003d1a",
+      "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+      "primary_url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
-          "published_at": "2026-10-03T12:34:59+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "96e7ad993eb1",
-      "title": "Private capital is reshaping Hollywood moviemaking",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/private-capital-hollywood-film-financing.html",
-          "published_at": "2026-10-03T12:00:01+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "82b6fc2f68fc",
-      "title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
-          "published_at": "2026-10-03T12:00:01+00:00",
+          "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+          "published_at": "2026-10-04T05:00:01+00:00",
           "importance_score": 40
         }
       ]

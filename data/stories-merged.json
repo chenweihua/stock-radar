@@ -1,828 +1,255 @@
 {
-  "generated_at": "2026-10-17T23:39:36.026067+00:00",
-  "total_stories": 49,
+  "generated_at": "2026-10-18T23:48:56.380436+00:00",
+  "total_stories": 24,
   "stories": [
     {
-      "story_id": "8cbd4ad386fb",
-      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
-      "label": "policy",
-      "label_zh": "监管政策",
+      "story_id": "b44c000a8b3f",
+      "title": "[301377 鼎泰高科] 关于实际控制人之一、董事长提议回购公司股份的提示性公告",
+      "label": "capital",
+      "label_zh": "资本运作",
       "importance_label": "high",
       "importance_score": 75,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "primary_url": "http://static.cninfo.com.cn/finalpage/2026-10-18/1225610043.pdf",
       "markets": [
-        "us"
+        "cn"
       ],
       "items": [
         {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-          "published_at": "2026-10-17T19:35:18+00:00",
+          "source": "巨潮资讯",
+          "url": "http://static.cninfo.com.cn/finalpage/2026-10-18/1225610043.pdf",
+          "published_at": "2026-10-18T12:43:53+00:00",
           "importance_score": 75
         }
       ]
     },
     {
-      "story_id": "ca143ce3411b",
-      "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+      "story_id": "2162e14e01db",
+      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
       "label": "earnings",
       "label_zh": "财报业绩",
       "importance_label": "high",
       "importance_score": 75,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-          "published_at": "2026-10-17T15:42:34+00:00",
-          "importance_score": 75
-        }
-      ]
-    },
-    {
-      "story_id": "f1ac104650af",
-      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-      "label": "earnings",
-      "label_zh": "财报业绩",
-      "importance_label": "high",
-      "importance_score": 75,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
+      "primary_url": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
-          "published_at": "2026-10-17T12:01:00+00:00",
+          "url": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+          "published_at": "2026-10-18T14:00:00+00:00",
           "importance_score": 75
         }
       ]
     },
     {
-      "story_id": "a9213502ec08",
-      "title": "(1)獨立非執行董事辭任；(2)公司秘書及授權代表變更；(3)委任獨立非執行董事；(4)董事委員會組成變更；(5)符合GEM上市規則第5.05(1)、5.05A、5.14、5.24及5.28條的規定；(6)獨立調查委員會組成變更；及(7)繼續暫停股份買賣",
-      "label": "product",
-      "label_zh": "产品业务",
-      "importance_label": "medium",
-      "importance_score": 68,
+      "story_id": "1966839cb2a7",
+      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "label": "earnings",
+      "label_zh": "财报业绩",
+      "importance_label": "high",
+      "importance_score": 75,
       "source_count": 1,
-      "primary_url": "/listedco/listconews/gem/2026/1016/2026101601487_c.pdf",
+      "primary_url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
       "markets": [
-        "hk"
+        "us"
       ],
       "items": [
         {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/gem/2026/1016/2026101601487_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987183+00:00",
-          "importance_score": 68
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+          "published_at": "2026-10-18T13:00:00+00:00",
+          "importance_score": 75
         }
       ]
     },
     {
-      "story_id": "5a41d39bff40",
-      "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+      "story_id": "3ae30a6d3bf9",
+      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
       "label": "macro",
       "label_zh": "宏观数据",
       "importance_label": "medium",
       "importance_score": 65,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+      "primary_url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
       "markets": [
         "us"
       ],
       "items": [
         {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
-          "published_at": "2026-10-17T18:52:00+00:00",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+          "published_at": "2026-10-18T13:52:24+00:00",
           "importance_score": 65
         }
       ]
     },
     {
-      "story_id": "3ca199b95331",
-      "title": "延遲寄發有關出售債權的非常重大出售事項之通函",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601453_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601453_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987275+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "b9cda4928092",
-      "title": "7233 NEWS",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601455_c.xlsx",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601455_c.xlsx",
-          "published_at": "2026-10-17T23:39:30.987270+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "e83c220a5437",
-      "title": "3134 NEWS",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601457_c.xlsx",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601457_c.xlsx",
-          "published_at": "2026-10-17T23:39:30.987265+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "1f51eda9a929",
-      "title": "3109 NEWS",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601459_c.xlsx",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601459_c.xlsx",
-          "published_at": "2026-10-17T23:39:30.987260+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "ff491aa6daf1",
-      "title": "(I)委任執行董事；\n(II)辭任及委任獨立非執行董事；\n及\n(III)董事委員會組成變更",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601461_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601461_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987255+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "b318052e90f7",
-      "title": "內幕消息\n關於以集中競價交易方式回購A股股份的方案",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601463_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601463_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987249+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "4e0e8913cc41",
-      "title": "須予披露交易 - 出售土地",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601465_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601465_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987244+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "56f9eadfc8b6",
-      "title": "3174 NEWS",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601467_c.xlsx",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601467_c.xlsx",
-          "published_at": "2026-10-17T23:39:30.987239+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "ed3649eb4877",
-      "title": "本公司以集中競價交易方式回購A股股份方案公告",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601469_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601469_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987234+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "414ef401f158",
-      "title": "3003 NEWS",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601471_c.xlsx",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601471_c.xlsx",
-          "published_at": "2026-10-17T23:39:30.987229+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "0d47b04b0e05",
-      "title": "3004 NEWS",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601473_c.xlsx",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601473_c.xlsx",
-          "published_at": "2026-10-17T23:39:30.987223+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "e2604b4021de",
-      "title": "進一步延遲寄發有關主要交易之通函",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/gem/2026/1016/2026101601475_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/gem/2026/1016/2026101601475_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987218+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "fd295980dfaa",
-      "title": "董事名單及董事的職責與職能",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601477_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601477_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987212+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "8729e84eff01",
-      "title": "海外監管公告 - 關於對葉小平、曹曉春給予通報批評處分的決定",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 2,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601478_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601478_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987207+00:00",
-          "importance_score": 60
-        },
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601480_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987202+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "c2bee9026fa8",
-      "title": "海外監管公告",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601482_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601482_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987196+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "e1a3c2d34de4",
-      "title": "有關復牌進展的季度更新",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601485_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601485_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987190+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "24629e0258ca",
-      "title": "董事名單與其角色和職能",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/gem/2026/1016/2026101601489_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/gem/2026/1016/2026101601489_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987153+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "45bcb09a8600",
-      "title": "環境、社會及管治報告 2026",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601491_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601491_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987147+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "148e20702147",
-      "title": "致登記股東的函件及申請表格 - 發佈公司通訊之安排",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601493_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601493_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987140+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "ee5314a87698",
-      "title": "致非登記股東的函件及申請表格 - 發佈公司通訊之安排",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601495_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601495_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987133+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "01cd9a8ea4d5",
-      "title": "(1)主要交易出售一家附屬公司及(2)建議更改公司名稱",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601497_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601497_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987125+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "87b9d7a246df",
-      "title": "關連交易\n與關連人士共同投資設立參股公司",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601499_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601499_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987115+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "576ba3c5c4de",
-      "title": "須予披露交易\n出售南通潤德石油化工有限公司全部股權",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601501_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601501_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987105+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "37b21fe1bee8",
-      "title": "內幕消息 - 對董事及控股股東的立案調查的最新情況",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601503_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601503_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987098+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "aa12bc76c32e",
-      "title": "有關截至二零二五年十二月三十一日止年度的年報\n所載不發表意見的更新資料",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601505_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601505_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987089+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "1a0b8c4709ac",
-      "title": "須予披露交易及關連交易 - 慶鈴模具減資事項",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601507_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601507_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987070+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "2f8ede8780a3",
-      "title": "(1)建議按於記錄日期每持有兩股現有股份\n獲發一股供股股份之基準以非包銷基準進行供股；及\n(2)建議更改每手買賣單位",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601509_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601509_c.pdf",
-          "published_at": "2026-10-17T23:39:30.987053+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "9a34850254a9",
-      "title": "建議按於記錄日期每持有兩(2)股現有股份\n獲發一(1)股供股股份的基準進行非包銷供股\n及\n建議更改每手買賣單位",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 60,
-      "source_count": 1,
-      "primary_url": "/listedco/listconews/sehk/2026/1016/2026101601511_c.pdf",
-      "markets": [
-        "hk"
-      ],
-      "items": [
-        {
-          "source": "港交所披露",
-          "url": "/listedco/listconews/sehk/2026/1016/2026101601511_c.pdf",
-          "published_at": "2026-10-17T23:39:30.973225+00:00",
-          "importance_score": 60
-        }
-      ]
-    },
-    {
-      "story_id": "18a0cbe5e5e6",
-      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+      "story_id": "93980c8e5ff4",
+      "title": "I've studied over 200 kids—parents who raise resilient, successful children teach them these 6 lessons early on",
       "label": "management",
       "label_zh": "管理层",
       "importance_label": "medium",
       "importance_score": 55,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+      "primary_url": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
-          "published_at": "2026-10-17T12:46:21+00:00",
+          "url": "https://www.cnbc.com/make-it/2026/10/18/parenting-lessons-resilient-successful-well-adjusted.html",
+          "published_at": "2026-10-18T13:37:01+00:00",
           "importance_score": 55
         }
       ]
     },
     {
-      "story_id": "9a3f752c363e",
-      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
-      "label": "management",
-      "label_zh": "管理层",
-      "importance_label": "medium",
-      "importance_score": 55,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
-          "published_at": "2026-10-17T05:00:01+00:00",
-          "importance_score": 55
-        }
-      ]
-    },
-    {
-      "story_id": "f5f431e635d1",
-      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+      "story_id": "24536854cf0c",
+      "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
       "label": "product",
       "label_zh": "产品业务",
       "importance_label": "medium",
       "importance_score": 48,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+      "primary_url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
       "markets": [
         "us"
       ],
       "items": [
         {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-          "published_at": "2026-10-17T18:40:00+00:00",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
+          "published_at": "2026-10-18T23:10:45+00:00",
           "importance_score": 48
         }
       ]
     },
     {
-      "story_id": "deb04fa48309",
-      "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
+      "story_id": "b4f9bc254c81",
+      "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
       "label": "market",
       "label_zh": "大盘行情",
       "importance_label": "medium",
       "importance_score": 48,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+      "primary_url": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-          "published_at": "2026-10-17T12:30:00+00:00",
+          "url": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+          "published_at": "2026-10-18T12:00:00+00:00",
           "importance_score": 48
         }
       ]
     },
     {
-      "story_id": "002952912bb8",
-      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "story_id": "f283137a295a",
+      "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "primary_url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
       "markets": [
         "us"
       ],
       "items": [
         {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-          "published_at": "2026-10-17T20:53:00+00:00",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+          "published_at": "2026-10-18T23:36:11+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "217b25839269",
-      "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+      "story_id": "dc940e165b2b",
+      "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+      "primary_url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+          "published_at": "2026-10-18T23:00:01+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "401e0518b7ff",
+      "title": "Why I am taking the other side of the trade that crushed the market Friday",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html",
+          "published_at": "2026-10-18T22:23:08+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "889f439ff445",
+      "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+          "published_at": "2026-10-18T19:37:28+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "67bd3abacb07",
+      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-          "published_at": "2026-10-17T18:40:00+00:00",
+          "url": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+          "published_at": "2026-10-18T17:00:00+00:00",
           "importance_score": 40
         }
       ]
@@ -843,7 +270,175 @@
         {
           "source": "MarketWatch",
           "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-          "published_at": "2026-10-17T16:47:00+00:00",
+          "published_at": "2026-10-18T16:15:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "f6bc88b477e6",
+      "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+          "published_at": "2026-10-18T16:00:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "8f7850bfc94d",
+      "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+          "published_at": "2026-10-18T15:15:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "a35259b1f3bd",
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+          "published_at": "2026-10-18T15:00:00+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "2d725acf685d",
+      "title": "The bloated workweek is coming for Sundays—as some embrace flexibility, others worry about job security",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/make-it/2026/10/18/why-people-are-working-sundays.html",
+          "published_at": "2026-10-18T14:00:01+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "8e1478be4c94",
+      "title": "Roth conversions: When the ‘juice isn't really worth the squeeze,’ according to a top-ranked advisor",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/18/roth-conversion-2026.html",
+          "published_at": "2026-10-18T13:30:01+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "255e041808aa",
+      "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+          "published_at": "2026-10-18T13:10:33+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "c902b11d671a",
+      "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+          "published_at": "2026-10-18T12:34:51+00:00",
+          "importance_score": 40
+        }
+      ]
+    },
+    {
+      "story_id": "92783ada7923",
+      "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+      "label": "other",
+      "label_zh": "综合",
+      "importance_label": "medium",
+      "importance_score": 40,
+      "source_count": 1,
+      "primary_url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+      "markets": [
+        "us"
+      ],
+      "items": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+          "published_at": "2026-10-18T12:00:01+00:00",
           "importance_score": 40
         }
       ]
@@ -864,175 +459,49 @@
         {
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
-          "published_at": "2026-10-17T16:45:15+00:00",
+          "published_at": "2026-10-18T11:10:44+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "5b1f072013ce",
-      "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+      "story_id": "972ca6f7117b",
+      "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+      "primary_url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
-          "published_at": "2026-10-17T16:31:06+00:00",
+          "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+          "published_at": "2026-10-18T07:22:07+00:00",
           "importance_score": 40
         }
       ]
     },
     {
-      "story_id": "4c76df2aa725",
-      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+      "story_id": "f30d91838167",
+      "title": "Why hedge funds could be making a bond market shock more likely",
       "label": "other",
       "label_zh": "综合",
       "importance_label": "medium",
       "importance_score": 40,
       "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "primary_url": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
       "markets": [
         "us"
       ],
       "items": [
         {
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-          "published_at": "2026-10-17T15:11:30+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "2006e0b1b3ab",
-      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-          "published_at": "2026-10-17T15:00:01+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "724114ff9488",
-      "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-          "published_at": "2026-10-17T13:30:01+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "999435875dcb",
-      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
-          "published_at": "2026-10-17T13:00:01+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "43b959eeecce",
-      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-          "published_at": "2026-10-17T13:00:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "f8f89e52ae91",
-      "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
-          "published_at": "2026-10-17T12:31:00+00:00",
-          "importance_score": 40
-        }
-      ]
-    },
-    {
-      "story_id": "8f7850bfc94d",
-      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "label": "other",
-      "label_zh": "综合",
-      "importance_label": "medium",
-      "importance_score": 40,
-      "source_count": 1,
-      "primary_url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-      "markets": [
-        "us"
-      ],
-      "items": [
-        {
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-          "published_at": "2026-10-17T12:00:00+00:00",
+          "url": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+          "published_at": "2026-10-18T06:13:05+00:00",
           "importance_score": 40
         }
       ]
